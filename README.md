@@ -1,1 +1,1 @@
-A multiagent arcitecture for market analysis and use case generation
+A multiagent architecture for market analysis and use case generation
